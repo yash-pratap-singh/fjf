@@ -1,0 +1,1 @@
+{"name":"Local: Q2","url":"/Users/yash/Desktop/C++ /CODE FORCES/Contest/10/Q2.cpp","tests":[{"id":1675955351894,"input":"5\n1\n161\n67\n1206\n19","output":"1 0\n67 94\n60 7\n1138 68\n14 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yash/Desktop/C++ /CODE FORCES/Contest/10/Q2.cpp","group":"local","local":true}

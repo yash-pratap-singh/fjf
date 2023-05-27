@@ -1,0 +1,1 @@
+{"name":"Local: 62_PermutationValue","url":"/Users/yash/Desktop/C++ /CODE FORCES/900-1000/62_PermutationValue.cpp","tests":[{"id":1666028508126,"input":"2\n5\n6\n","output":"1 4 3 5 2\n4 1 6 2 5 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yash/Desktop/C++ /CODE FORCES/900-1000/62_PermutationValue.cpp","group":"local","local":true}

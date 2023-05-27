@@ -1,0 +1,1 @@
+{"name":"Local: 55_MEXorMIXup","url":"/Users/yash/Desktop/C++ /CODE FORCES/900-1000/55_MEXorMIXup.cpp","tests":[{"id":1664368530119,"input":"5\n1 1\n2 1\n2 0\n1 10000\n2 10000\n","output":"3\n2\n3\n2\n3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/yash/Desktop/C++ /CODE FORCES/900-1000/55_MEXorMIXup.cpp","group":"local","local":true}
